@@ -1,9 +1,9 @@
 #include <stdio.h>
-#this program simply prints hello world 6 times here for loop is used for this 
+#this program simply prints hello world 6 times here for loop is used for this it will also show the index of each hello world starting from 0 to 5 
 void main(){
   
   for( i = 0;i<6;i++){
-    print("hello world\n")
+    printf("%d hello world\n",i);
   }
 
 }
