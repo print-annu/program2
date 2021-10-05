@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#this program simply prints hello world 6 times here for loop is used for this 
 void main(){
   
   for( i = 0;i<6;i++){
